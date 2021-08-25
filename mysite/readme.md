@@ -1,1 +1,1 @@
-### This tutorial was based on a (Django basic tutorial)[https://docs.djangoproject.com/en/3.2/intro/]
+### This tutorial was based on a [Django basic tutorial](https://docs.djangoproject.com/en/3.2/intro/)
